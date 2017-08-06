@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>重 复 * 次</pattern>
+<template>REPEAT <star index="1"/></template>
+</category>
+
+<category>
+<pattern>循 环 * 次</pattern>
+<template>REPEAT <star index="1"/></template>
+</category>
+
+<category>
+<pattern>迭 代 * 次</pattern>
+<template>REPEAT <star index="1"/></template>
+</category>
+
+<category>
+<pattern>进 行 * 次 重 复</pattern>
+<template>REPEAT <star index="1"/></template>
+</category>
+
+<category>
+<pattern>进 行 * 次 循 环</pattern>
+<template>REPEAT <star index="1"/></template>
+</category>
+
+<category>
+<pattern>进 行 * 次 迭 代</pattern>
+<template>REPEAT <star index="1"/></template>
+</category>
+
+<category>
+<pattern>结 束 迭 代</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>完 成 迭 代</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>停 止 迭 代</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>结 束 重 复</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>完 成 重 复</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>停 止 重 复</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>结 束 循 环</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>完 成 循 环</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>停 止 循 环</pattern>
+<template>END</template>
+</category>
+
+<category>
+<pattern>结 束</pattern>
+<template>END</template>
+</category>
+</aiml>

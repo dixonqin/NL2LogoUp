@@ -25,18 +25,9 @@
 <pattern>放 下 画 笔</pattern>
 <template>DRAW</template>
 </category>
-<category>
-<pattern>开 始 * 二 维 绘*</pattern>
-<template>DRAW</template>
-</category>
 
 <category>
 <pattern>开 始 二 维 绘 *</pattern>
-<template>DRAW</template>
-</category>
-
-<category>
-<pattern>开 始 * 二 维 画 *</pattern>
 <template>DRAW</template>
 </category>
 

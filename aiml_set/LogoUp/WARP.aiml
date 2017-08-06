@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>X * 弯 曲 至 * 米</pattern>
+<template>WARPX <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* X * 弯 曲 至 * 米</pattern>
+<template>WARPX <star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>Y * 弯 曲 至 * 米</pattern>
+<template>WARPY <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* Y * 弯 曲 至 * 米</pattern>
+<template>WARPY <star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>X * 弯 曲 至 * 分 米</pattern>
+<template>WARPX <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* X * 弯 曲 至 * 分 米</pattern>
+<template>WARPX <star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>Y * 弯 曲 至 * 分 米</pattern>
+<template>WARPY <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* Y * 弯 曲 至 * 分 米</pattern>
+<template>WARPY <star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>X * 弯 曲 至 * 厘 米</pattern>
+<template>WARPX <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* X * 弯 曲 至 * 厘 米</pattern>
+<template>WARPX <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>Y * 弯 曲 至 * 厘 米</pattern>
+<template>WARPY <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* Y * 弯 曲 至 * 厘 米</pattern>
+<template>WARPY <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>X * 弯 曲 至 * 毫 米</pattern>
+<template>WARPX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X * 弯 曲 至 * 毫 米</pattern>
+<template>WARPX <star index="3"/></template>
+</category>
+
+<category>
+<pattern>Y * 弯 曲 至 * 毫 米</pattern>
+<template>WARPY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y * 弯 曲 至 * 毫 米</pattern>
+<template>WARPY <star index="3"/></template>
+</category>
+
+</aiml>

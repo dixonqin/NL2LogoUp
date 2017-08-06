@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>水 平 * 旋 转 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 旋 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 转 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 转 动 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 顺 时 针 旋 转 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 顺 时 针 旋 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 顺 时 针 转 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 顺 时 针 转 动 * 度</pattern>
+<template>YAW <star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 逆 时 针 旋 转 * 度</pattern>
+<template>YAW -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 逆 时 针 旋 * 度</pattern>
+<template>YAW -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 逆 时 针 转 * 度</pattern>
+<template>YAW -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>水 平 * 逆 时 针 转 动 * 度</pattern>
+<template>YAW -<star index="2"/></template>
+</category>
+
+
+
+<category>
+<pattern>俯 仰 * 下 俯 旋 转 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 下 俯 转 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 下 俯 旋 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 下 俯 转 动 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>下 俯 旋 转 * 度</pattern>
+<template>PITCH -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>下 俯 旋 * 度</pattern>
+<template>PITCH -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>下 俯 转 * 度</pattern>
+<template>PITCH -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>下 俯 转 动 * 度</pattern>
+<template>PITCH -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>下 俯 * 度</pattern>
+<template>PITCH -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>* 下 俯 旋 转 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 俯 转 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 俯 旋 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 俯 转 动 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 俯 * 度</pattern>
+<template>PITCH -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 上 仰 旋 转 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 上 仰 旋 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 上 仰 转 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>俯 仰 * 上 仰 转 动 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>上 仰 旋 转 * 度</pattern>
+<template>PITCH <star index="1"/></template>
+</category>
+
+<category>
+<pattern>上 仰 旋 * 度</pattern>
+<template>PITCH <star index="1"/></template>
+</category>
+
+<category>
+<pattern>上 仰 转 * 度</pattern>
+<template>PITCH <star index="1"/></template>
+</category>
+
+<category>
+<pattern>上 仰 转 动 * 度</pattern>
+<template>PITCH <star index="1"/></template>
+</category>
+
+<category>
+<pattern>上 仰 * 度</pattern>
+<template>PITCH <star index="1"/></template>
+</category>
+
+<category>
+<pattern>* 上 仰 旋 转 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 上 仰 转 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 上 仰 旋 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 上 仰 转 动 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 上 仰 * 度</pattern>
+<template>PITCH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 旋 转 * 度</pattern>
+<template>ROLL <star index="1"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 转 * 度</pattern>
+<template>ROLL <star index="1"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 旋 * 度</pattern>
+<template>ROLL <star index="1"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 转 动 * 度</pattern>
+<template>ROLL <star index="1"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 旋 转 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 旋 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 转 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 转 动 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 旋 转 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 转 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 旋 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 转 动 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 顺 时 针 旋 转 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 顺 时 针 旋 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 顺 时 针 转 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 顺 时 针 转 动 * 度</pattern>
+<template>ROLL <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 旋 转 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 旋 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 转 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 顺 时 针 转 动 * 度</pattern>
+<template>ROLL <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 旋 转 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 旋 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 转 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 转 动 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 逆 时 针 旋 转 * 度</pattern>
+<template>ROLL -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 逆 时 针 转 * 度</pattern>
+<template>ROLL -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 逆 时 针 旋 * 度</pattern>
+<template>ROLL -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>绕 自 身 * 逆 时 针 转 动 * 度</pattern>
+<template>ROLL -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 旋 转 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 转 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 旋 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 绕 自 身 * 逆 时 针 转 动 * 度</pattern>
+<template>ROLL -<star index="3"/></template>
+</category>
+
+</aiml>

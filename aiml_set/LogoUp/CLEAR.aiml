@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>Çå ¿Õ ²Ý Í¼</pattern>
+<template>CLEAR</template>
+</category>
+
+<category>
+<pattern>Íê ³É ²Ý Í¼</pattern>
+<template>CLEAR</template>
+</category>
+
+</aiml>

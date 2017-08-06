@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+
+<category>
+<pattern>Y * 放 大 * 倍</pattern>
+<template>SCALEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>Y * 放 大 * 的 * 倍</pattern>
+<template>SCALEY <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* Y * 放 大 * 倍</pattern>
+<template>SCALEY <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* Y * 放 大 * 的 * 倍</pattern>
+<template>SCALEY <star index="4"/></template>
+</category>
+
+<category>
+<pattern>Y * 缩 小 * 倍</pattern>
+<template>SCALEY 1 / <star index="2"/></template>
+</category>
+
+<category>
+<pattern>Y * 缩 小 * 的 * 倍</pattern>
+<template>SCALEY 1 / <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* Y * 缩 小 * 倍</pattern>
+<template>SCALEY 1 / <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* Y * 缩 小 * 的 * 倍</pattern>
+<template>SCALEY 1 / <star index="4"/></template>
+</category>
+
+<category>
+<pattern>Y * 缩 小 为 * 分 之 *</pattern>
+<template>SCALEY <star index="3"/> / <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y * 缩 小 为 * 分 之 *</pattern>
+<template>SCALEY <star index="4"/> / <star index="3"/></template>
+</category>
+
+<category>
+<pattern>Y * 缩 小 * 的 * 分 之 *</pattern>
+<template>SCALEY <star index="4"/> / <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* Y * 缩 小 * 的 * 分 之 *</pattern>
+<template>SCALEY <star index="5"/> / <star index="4"/></template>
+</category>
+
+</aiml>

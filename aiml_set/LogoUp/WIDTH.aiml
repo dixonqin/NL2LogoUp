@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>* 线 条 宽 度 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 笔 宽 度 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 笔 宽 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 笔 粗 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 线 条 宽 度 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 米</pattern>
+<template>WIDTH <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>笔 宽 度 为 * 米</pattern>
+<template>WIDTH <star index="1"/> * 1000</template>
+</category>
+
+<category>
+<pattern>笔 宽 为 * 米</pattern>
+<template>WIDTH <star index="1"/> * 1000</template>
+</category>
+
+<category>
+<pattern>笔 粗 为 * 米</pattern>
+<template>WIDTH <star index="1"/> * 1000</template>
+</category>
+<category>
+<pattern>* 线 条 宽 度 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 笔 宽 度 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 笔 宽 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 笔 粗 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 线 条 宽 度 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 分 米</pattern>
+<template>WIDTH <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>笔 宽 度 为 * 分 米</pattern>
+<template>WIDTH <star index="1"/> * 100</template>
+</category>
+
+<category>
+<pattern>笔 宽 为 * 分 米</pattern>
+<template>WIDTH <star index="1"/> * 100</template>
+</category>
+
+<category>
+<pattern>笔 粗 为 * 分 米</pattern>
+<template>WIDTH <star index="1"/> * 100</template>
+</category>
+<category>
+<pattern>* 线 条 宽 度 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 笔 宽 度 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 笔 宽 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 笔 粗 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 线 条 宽 度 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 厘 米</pattern>
+<template>WIDTH <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>笔 宽 度 为 * 厘 米</pattern>
+<template>WIDTH <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>笔 宽 为 * 厘 米</pattern>
+<template>WIDTH <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>笔 粗 为 * 厘 米</pattern>
+<template>WIDTH <star index="1"/> * 10</template>
+</category>
+<category>
+<pattern>* 线 条 宽 度 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 笔 宽 度 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 笔 宽 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 笔 粗 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 线 条 宽 度 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 线 宽 为 * 毫 米</pattern>
+<template>WIDTH <star index="2"/></template>
+</category>
+
+<category>
+<pattern>笔 宽 度 为 * 毫 米</pattern>
+<template>WIDTH <star index="1"/></template>
+</category>
+</aiml>

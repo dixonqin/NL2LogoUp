@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>结 束 绘 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>结 束 构 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>结 束 建 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>绘 * 结 束</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>构 * 结 束</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>建 * 结 束</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>抬 笔</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>停 止 绘 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>停 笔</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>完 成</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>完 成 绘 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>绘 * 完 成</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>完 成 构 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>构 * 完 成</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>完 成 建 *</pattern>
+<template>DONE</template>
+</category>
+
+<category>
+<pattern>建 * 完 成</pattern>
+<template>DONE</template>
+</category>
+
+</aiml>

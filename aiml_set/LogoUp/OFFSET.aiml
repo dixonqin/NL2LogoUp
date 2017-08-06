@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>* 偏 移 量 为 *</pattern>
+<template>OFFSET <star index="2"/></template>
+</category>
+
+<category>
+<pattern>偏 移 量 * 为 *</pattern>
+<template>OFFSET <star index="2"/></template>
+</category>
+
+<category>
+<pattern>偏 移 量 为 *</pattern>
+<template>OFFSET <star index="1"/></template>
+</category>
+
+</aiml>

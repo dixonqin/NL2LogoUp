@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+<!--
+<category>
+<pattern>向 上 跳 跃 * 米</pattern>
+<template>JUMP <star index="1"/> * 1000</template>
+</category>
+
+<category>
+<pattern>向 下 跳 跃 * 米</pattern>
+<template>JUMP -<star index="1"/> * 1000</template>
+</category>
+
+<category>
+<pattern>向 上 跳 跃 * 分 米</pattern>
+<template>JUMP <star index="1"/> * 100</template>
+</category>
+
+<category>
+<pattern>向 下 跳 跃 * 分 米</pattern>
+<template>JUMP -<star index="1"/> * 100</template>
+</category>
+
+<category>
+<pattern>向 上 跳 跃 * 厘 米</pattern>
+<template>JUMP <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>向 下 跳 跃 * 厘 米</pattern>
+<template>JUMP -<star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>向 上 跳 跃 * 毫 米</pattern>
+<template>JUMP <star index="1"/></template>
+</category>
+
+<category>
+<pattern>向 下 跳 跃 * 毫 米</pattern>
+<template>JUMP -<star index="1"/></template>
+</category>
+-->
+</aiml>

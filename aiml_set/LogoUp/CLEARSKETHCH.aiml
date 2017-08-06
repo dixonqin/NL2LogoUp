@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>清 空 当 前 草 图</pattern>
+<template>CLEARSKETCH</template>
+</category>
+
+<category>
+<pattern>清 空 当 前 草 图 *</pattern>
+<template>CLEARSKETCH</template>
+</category>
+
+</aiml>

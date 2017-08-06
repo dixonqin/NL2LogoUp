@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>开 始 二 维 擦 除</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>结 束 二 维 擦 除</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 启 二 维 擦 除</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>关 闭 二 维 擦 除</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 启 二 维 差 运 算</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>开 始 二 维 差 运 算</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>关 闭 二 维 差 运 算</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>结 束 二 维 差 运 算</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 启 二 维 抠 除 *</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>关 闭 二 维 抠 除 *</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 始 二 维 抠 除 *</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>结 束 二 维 抠 除 *</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 始 平 面 擦 除</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>结 束 平 面 擦 除</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 启 平 面 擦 除</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>关 闭 平 面 擦 除</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 启 平 面 差 运 算</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>开 始 平 面 差 运 算</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>关 闭 平 面 差 运 算</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>结 束 平 面 差 运 算</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 启 平 面 抠 *</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>关 闭 平 面 抠 *</pattern>
+<template>ERASE OFF</template>
+</category>
+
+<category>
+<pattern>开 始 平 面 抠 *</pattern>
+<template>ERASE ON</template>
+</category>
+
+<category>
+<pattern>结 束 平 面 抠 *</pattern>
+<template>ERASE OFF</template>
+</category>
+
+</aiml>

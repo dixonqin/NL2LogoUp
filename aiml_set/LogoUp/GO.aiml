@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>前 进 * 米</pattern>
+<template>GO <star index="1"/> * 1000</template>
+</category>
+
+<category>
+<pattern>前 行 * 米</pattern>
+<template>GO <star index="1"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 前 进 * 米</pattern>
+<template>GO <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 前 行 * 米</pattern>
+<template>GO <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 前 走 * 米</pattern>
+<template>GO <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 前 * 动 * 米</pattern>
+<template>GO <star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 前 * 进 * 米</pattern>
+<template>GO <star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 前 * 走 * 米</pattern>
+<template>GO <star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>后 退 * 米</pattern>
+<template>GO -<star index="1"/> * 1000</template>
+</category>
+
+
+<category>
+<pattern>* 后 退 * 米</pattern>
+<template>GO -<star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 后 走 * 米</pattern>
+<template>GO -<star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 后 行 * 米</pattern>
+<template>GO -<star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 后 * 退 * 米</pattern>
+<template>GO -<star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 后 * 走 * 米</pattern>
+<template>GO -<star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 后 * 动 * 米</pattern>
+<template>GO -<star index="3"/> * 1000</template>
+</category>
+
+<category>
+<pattern>前 进 * 分 米</pattern>
+<template>GO <star index="1"/> * 100</template>
+</category>
+
+<category>
+<pattern>前 行 * 分 米</pattern>
+<template>GO <star index="1"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 前 进 * 分 米</pattern>
+<template>GO <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 前 行 * 分 米</pattern>
+<template>GO <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 前 走 * 分 米</pattern>
+<template>GO <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 前 * 动 * 分 米</pattern>
+<template>GO <star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 前 * 进 * 分 米</pattern>
+<template>GO <star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 前 * 走 * 分 米</pattern>
+<template>GO <star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>后 退 * 分 米</pattern>
+<template>GO -<star index="1"/> * 100</template>
+</category>
+
+
+<category>
+<pattern>* 后 退 * 分 米</pattern>
+<template>GO -<star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 后 走 * 分 米</pattern>
+<template>GO -<star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 后 行 * 分 米</pattern>
+<template>GO -<star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 后 * 退 * 分 米</pattern>
+<template>GO -<star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 后 * 走 * 分 米</pattern>
+<template>GO -<star index="3"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 后 * 动 * 分 米</pattern>
+<template>GO -<star index="3"/> * 100</template>
+</category>
+
+
+<category>
+<pattern>前 进 * 公 分</pattern>
+<template>GO <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>前 行 * 公 分</pattern>
+<template>GO <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 进 * 公 分</pattern>
+<template>GO <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 行 * 公 分</pattern>
+<template>GO <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 走 * 公 分</pattern>
+<template>GO <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 * 动 * 公 分</pattern>
+<template>GO <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 * 进 * 公 分</pattern>
+<template>GO <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 * 走 * 公 分</pattern>
+<template>GO <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>后 退 * 公 分</pattern>
+<template>GO -<star index="1"/> * 10</template>
+</category>
+
+
+<category>
+<pattern>* 后 退 * 公 分</pattern>
+<template>GO -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 走 * 公 分</pattern>
+<template>GO -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 行 * 公 分</pattern>
+<template>GO -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 * 退 * 公 分</pattern>
+<template>GO -<star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 * 走 * 公 分</pattern>
+<template>GO -<star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 * 动 * 公 分</pattern>
+<template>GO -<star index="3"/> * 10</template>
+</category>
+
+
+<category>
+<pattern>前 进 * 厘 米</pattern>
+<template>GO <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>前 行 * 厘 米</pattern>
+<template>GO <star index="1"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 进 * 厘 米</pattern>
+<template>GO <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 行 * 厘 米</pattern>
+<template>GO <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 走 * 厘 米</pattern>
+<template>GO <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 * 动 * 厘 米</pattern>
+<template>GO <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 * 进 * 厘 米</pattern>
+<template>GO <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 前 * 走 * 厘 米</pattern>
+<template>GO <star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>后 退 * 厘 米</pattern>
+<template>GO -<star index="1"/> * 10</template>
+</category>
+
+
+<category>
+<pattern>* 后 退 * 厘 米</pattern>
+<template>GO -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 走 * 厘 米</pattern>
+<template>GO -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 行 * 厘 米</pattern>
+<template>GO -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 * 退 * 厘 米</pattern>
+<template>GO -<star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 * 走 * 厘 米</pattern>
+<template>GO -<star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 后 * 动 * 厘 米</pattern>
+<template>GO -<star index="3"/> * 10</template>
+</category>
+
+<category>
+<pattern>前 进 * 毫 米</pattern>
+<template>GO <star index="1"/></template>
+</category>
+
+<category>
+<pattern>前 行 * 毫 米</pattern>
+<template>GO <star index="1"/></template>
+</category>
+
+<category>
+<pattern>* 前 进 * 毫 米</pattern>
+<template>GO <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 前 行 * 毫 米</pattern>
+<template>GO <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 前 走 * 毫 米</pattern>
+<template>GO <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 前 * 动 * 毫 米</pattern>
+<template>GO <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 前 * 进 * 毫 米</pattern>
+<template>GO <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 前 * 走 * 毫 米</pattern>
+<template>GO <star index="3"/></template>
+</category>
+
+<category>
+<pattern>后 退 * 毫 米</pattern>
+<template>GO -<star index="1"/></template>
+</category>
+
+
+<category>
+<pattern>* 后 退 * 毫 米</pattern>
+<template>GO -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 后 走 * 毫 米</pattern>
+<template>GO -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 后 行 * 毫 米</pattern>
+<template>GO -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 后 * 退 * 毫 米</pattern>
+<template>GO -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 后 * 走 * 毫 米</pattern>
+<template>GO -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 后 * 动 * 毫 米</pattern>
+<template>GO -<star index="3"/></template>
+</category>
+
+</aiml>

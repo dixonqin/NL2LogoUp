@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>顺 时 针 旋 转 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 旋 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 转 动 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 转 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 * 旋 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 * 旋 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 * 转 动 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>顺 时 针 * 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 旋 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 旋 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 转 动 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 * 旋 转 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 * 旋 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 * 转 动 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 顺 时 针 * 转 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>右 旋 转 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>右 转 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>右 旋 * 度</pattern>
+<template>TURN <star index="1"/></template>
+</category>
+
+<category>
+<pattern>右 * 旋 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>右 * 旋 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>右 * 转 动 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>右 * 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 右 旋 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 右 转 动 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 右 转 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 右 旋 * 度</pattern>
+<template>TURN <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 右 * 旋 转 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 右 * 旋 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 右 * 转 动 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 右 * 转 * 度</pattern>
+<template>TURN <star index="3"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 旋 转 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 旋 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 转 动 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 转 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 * 旋 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 * 旋 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 * 转 动 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>逆 时 针 * 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 旋 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 旋 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 转 动 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 * 旋 转 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 * 旋 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 * 转 动 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 逆 时 针 * 转 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>左 旋 转 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>左 转 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>左 旋 * 度</pattern>
+<template>TURN -<star index="1"/></template>
+</category>
+
+<category>
+<pattern>左 * 旋 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>左 * 旋 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>左 * 转 动 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>左 * 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 左 旋 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 左 转 动 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 左 转 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 左 旋 * 度</pattern>
+<template>TURN -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 左 * 旋 转 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 左 * 旋 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 左 * 转 动 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+<category>
+<pattern>* 左 * 转 * 度</pattern>
+<template>TURN -<star index="3"/></template>
+</category>
+
+</aiml>

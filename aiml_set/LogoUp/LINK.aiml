@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>连 接</pattern>
+<template>LINK</template>
+</category>
+
+<category>
+<pattern>连 接 *</pattern>
+<template>LINK</template>
+</category>
+
+<category>
+<pattern>* 面 * 连 接</pattern>
+<template>LINK</template>
+</category>
+
+</aiml>

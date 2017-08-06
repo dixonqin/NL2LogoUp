@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>压 栈</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>* 压 栈</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>压 栈 *</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>入 栈</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>入 栈 *</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>* 入 栈</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>备 份</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>备 份 *</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>* 备 份</pattern>
+<template>PUSH</template>
+</category>
+
+<category>
+<pattern>退 栈</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>* 退 栈</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>退 栈 *</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>出 栈</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>出 栈 *</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>* 出 栈</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>恢 复</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>恢 复 *</pattern>
+<template>POP</template>
+</category>
+
+<category>
+<pattern>* 恢 复</pattern>
+<template>POP</template>
+</category>
+
+</aiml>

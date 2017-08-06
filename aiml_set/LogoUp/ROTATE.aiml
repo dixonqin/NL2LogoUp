@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>* Z 轴 旋 转 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 顺 时 针 旋 转 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 逆 时 针 旋 转 * 度</pattern>
+<template>ROTATEZ -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 转 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 顺 时 针 转 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 逆 时 针 转 * 度</pattern>
+<template>ROTATEZ -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 旋 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 顺 时 针 旋 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 逆 时 针 旋 * 度</pattern>
+<template>ROTATEZ -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 转 动 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 顺 时 针 转 动 * 度</pattern>
+<template>ROTATEZ <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Z 轴 逆 时 针 转 动 * 度</pattern>
+<template>ROTATEZ -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 旋 转 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 顺 时 针 旋 转 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 逆 时 针 旋 转 * 度</pattern>
+<template>ROTATEY -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 转 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 顺 时 针 转 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 逆 时 针 转 * 度</pattern>
+<template>ROTATEY -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 旋 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 顺 时 针 旋 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 逆 时 针 旋 * 度</pattern>
+<template>ROTATEY -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 转 动 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 顺 时 针 转 动 * 度</pattern>
+<template>ROTATEY <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* Y 轴 逆 时 针 转 动 * 度</pattern>
+<template>ROTATEY -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 旋 转 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 顺 时 针 旋 转 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 逆 时 针 旋 转 * 度</pattern>
+<template>ROTATEX -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 转 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 顺 时 针 转 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 逆 时 针 转 * 度</pattern>
+<template>ROTATEX -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 旋 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 顺 时 针 旋 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 逆 时 针 旋 * 度</pattern>
+<template>ROTATEX -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 转 动 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 顺 时 针 转 动 * 度</pattern>
+<template>ROTATEX <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* X 轴 逆 时 针 转 动 * 度</pattern>
+<template>ROTATEX -<star index="2"/></template>
+</category>
+
+</aiml>

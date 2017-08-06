@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>开 始 * 平 面 绘 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 平 面 绘 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 * 平 面 画 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 平 面 画 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>放 下 画 笔</pattern>
+<template>DRAW</template>
+</category>
+<category>
+<pattern>开 始 * 二 维 绘*</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 二 维 绘 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 * 二 维 画 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 二 维 画 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>落 笔</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 绘 * 二 维 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 画 * 二 维 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 绘 * 平 面 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 画 * 平 面 *</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 绘 制</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 画 图</pattern>
+<template>DRAW</template>
+</category>
+
+<category>
+<pattern>开 始 绘 图</pattern>
+<template>DRAW</template>
+</category>
+</aiml>

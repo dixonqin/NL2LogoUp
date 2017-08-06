@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>开 启 立 体 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 立 体 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 立 体 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 立 体 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 立 体 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 立 体 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 立 体 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 立 体 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 立 体 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 空 间 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 空 间 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 空 间 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 空 间 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 空 间 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 空 间 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 空 间 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 空 间 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 空 间 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 三 维 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 三 维 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 三 维 差 运 算</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 三 维 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 三 维 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 三 维 抠 *</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 启 三 维 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>开 始 三 维 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>打 开 三 维 擦 除</pattern>
+<template>SUBTRACT ON</template>
+</category>
+
+<category>
+<pattern>关 闭 立 体 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 立 体 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 立 体 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 立 体 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 立 体 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 立 体 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 立 体 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 立 体 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 立 体 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 空 间 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 空 间 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 空 间 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 空 间 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 空 间 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 空 间 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 空 间 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 空 间 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 空 间 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 三 维 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 三 维 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 三 维 差 运 算</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 三 维 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 三 维 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 三 维 抠 *</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>关 闭 三 维 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>结 束 三 维 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+<category>
+<pattern>终 止 三 维 擦 除</pattern>
+<template>SUBTRACT OFF</template>
+</category>
+
+</aiml>

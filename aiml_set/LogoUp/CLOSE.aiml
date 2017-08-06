@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>闭 合</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>闭 合 *</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>* 闭 合</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>封 闭</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>* 封 闭</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>封 闭 *</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>* 首 尾 相 连</pattern>
+<template>CLOSE</template>
+</category>
+
+<category>
+<pattern>* 首 尾 连 接</pattern>
+<template>CLOSE</template>
+</category>
+
+</aiml>

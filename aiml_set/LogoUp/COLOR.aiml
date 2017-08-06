@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>绿 色</pattern>
+<template>GREEN</template>
+</category>
+
+<category>
+<pattern>蓝 色</pattern>
+<template>BLUE</template>
+</category>
+
+<category>
+<pattern>红 色</pattern>
+<template>RED</template>
+</category>
+
+<category>
+<pattern>黄 色</pattern>
+<template>YELLOW</template>
+</category>
+
+<category>
+<pattern>橙 色</pattern>
+<template>ORANGE</template>
+</category>
+
+<category>
+<pattern>白 色</pattern>
+<template>WHITE</template>
+</category>
+
+<category>
+<pattern>黑 色</pattern>
+<template>BLACK</template>
+</category>
+
+<category>
+<pattern>紫 色</pattern>
+<template>PURPLE</template>
+</category>
+
+<category>
+<pattern>粉 色</pattern>
+<template>PINK</template>
+</category>
+
+<category>
+<pattern>灰 色</pattern>
+<template>GRAY</template>
+</category>
+
+<category>
+<pattern>* 颜 色 为 *</pattern>
+<template>COLOR <srai><star index="2"/></srai></template>
+</category>
+
+<category>
+<pattern>* 颜 色 * 为 *</pattern>
+<template>COLOR <srai><star index="3"/></srai></template>
+</category>
+
+<category>
+<pattern>颜 色 * 为 *</pattern>
+<template>COLOR <srai><star index="2"/></srai></template>
+</category>
+
+</aiml>

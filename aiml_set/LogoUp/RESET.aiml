@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>ÖØ ÖÃ *</pattern>
+<template>RESET</template>
+</category>
+
+<category>
+<pattern>ÖØ ÖÃ</pattern>
+<template>RESET</template>
+</category>
+
+<category>
+<pattern>* ÖØ ÖÃ</pattern>
+<template>RESET</template>
+</category>
+
+</aiml>

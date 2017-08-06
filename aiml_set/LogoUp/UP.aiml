@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>* 上 * 米</pattern>
+<template>UP <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 上 走 * 米</pattern>
+<template>UP <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 上 移 动 * 米</pattern>
+<template>UP <star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 下 * 米</pattern>
+<template>UP -<star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 下 走 * 米</pattern>
+<template>UP -<star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 下 移 动 * 米</pattern>
+<template>UP -<star index="2"/> * 1000</template>
+</category>
+
+<category>
+<pattern>* 上 * 分 米</pattern>
+<template>UP <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 上 走 * 分 米</pattern>
+<template>UP <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 上 移 动 * 分 米</pattern>
+<template>UP <star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 下 * 分 米</pattern>
+<template>UP -<star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 下 走 * 分 米</pattern>
+<template>UP -<star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 下 移 动 * 分 米</pattern>
+<template>UP -<star index="2"/> * 100</template>
+</category>
+
+<category>
+<pattern>* 上 * 厘 米</pattern>
+<template>UP <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 上 走 * 厘 米</pattern>
+<template>UP <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 上 移 动 * 厘 米</pattern>
+<template>UP <star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 下 * 厘 米</pattern>
+<template>UP -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 下 走 * 厘 米</pattern>
+<template>UP -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 下 移 动 * 厘 米</pattern>
+<template>UP -<star index="2"/> * 10</template>
+</category>
+
+<category>
+<pattern>* 上 * 毫 米</pattern>
+<template>UP <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 上 走 * 毫 米</pattern>
+<template>UP <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 上 移 动 * 毫 米</pattern>
+<template>UP <star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 * 毫 米</pattern>
+<template>UP -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 走 * 毫 米</pattern>
+<template>UP -<star index="2"/></template>
+</category>
+
+<category>
+<pattern>* 下 移 动 * 毫 米</pattern>
+<template>UP -<star index="2"/></template>
+</category>
+</aiml>

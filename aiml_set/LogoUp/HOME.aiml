@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>* 回 * 原 点</pattern>
+<template>HOME</template>
+</category>
+
+<category>
+<pattern>回 * 原 点</pattern>
+<template>HOME</template>
+</category>
+
+<category>
+<pattern>* 回 * 起 始 点</pattern>
+<template>HOME</template>
+</category>
+
+<category>
+<pattern>* 回 原 点</pattern>
+<template>HOME</template>
+</category>
+
+<category>
+<pattern>* 回 起 始 点</pattern>
+<template>HOME</template>
+</category>
+
+<category>
+<pattern>回 * 起 始 点</pattern>
+<template>HOME</template>
+</category>
+
+</aiml>

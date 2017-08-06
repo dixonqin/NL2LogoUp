@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>野 割</pattern>
+<template>FILL</template>
+</category>
+
+<category>
+<pattern>野 割 *</pattern>
+<template>FILL</template>
+</category>
+
+<category>
+<pattern>* 野 割</pattern>
+<template>FILL</template>
+</category>
+
+<category>
+<pattern>* 野 割 *</pattern>
+<template>FILL</template>
+</category>
+
+</aiml>

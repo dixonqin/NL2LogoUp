@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="GB-2312"?>
+<aiml>
+
+<category>
+<pattern>开 始 空 间 * 建 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 建 * 空 间 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>建 * 空 间 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>空 间 * 建 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 空 间 * 构 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 构 * 空 间 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>构 * 空 间 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>空 间 * 构 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 空 间 * 绘 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 绘 * 空 间 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>绘 * 空 间 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>空 间 * 绘 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 立 体 * 建 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 建 * 立 体 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>建 * 立 体 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>立 体 * 建 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 立 体 * 构 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 构 * 立 体 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>构 * 立 体 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>立 体 * 构 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 立 体 * 绘 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 绘 * 立 体 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>绘 * 立 体 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>立 体 * 绘 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 三 维 * 建 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 建 * 三 维 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>建 * 三 维 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>三 维 * 建 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 三 维 * 构 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 构 * 三 维 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>构 * 三 维 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>三 维 * 构 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 三 维 * 绘 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>开 始 绘 * 三 维 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>绘 * 三 维 *</pattern>
+<template>BODY</template>
+</category>
+
+<category>
+<pattern>三 维 * 绘 *</pattern>
+<template>BODY</template>
+</category>
+
+</aiml>

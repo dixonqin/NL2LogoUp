@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<aiml>
-	<category><pattern>انا *</pattern><template><sr/></template></category>
-	<category><pattern>* انت</pattern><template><sr/></template></category>
-	<category><pattern>بالفعل *</pattern><template><sr/></template></category>
-	<category><pattern>بالطبع *</pattern><template><sr/></template></category>
-	<category><pattern>ا *</pattern><template><srai>هل <star/></srai></template></category>
-	<category><pattern>ما *</pattern><template><srai>ماذا <star/></srai></template></category>
-</aiml>

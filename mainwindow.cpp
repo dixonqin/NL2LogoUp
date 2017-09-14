@@ -81,7 +81,7 @@ void MainWindow:: on_pushButton_clicked()
   QString res = parser->getResFromCN(input);
   //ui->textEdit->append("input: "+input);
   //ui->textEdit->append("output: "+res);
-  ui->textEdit->append("/*"+input + "*/");
+  ui->textEdit->append("//"+input);
   ui->textEdit->append(res);
   ui->lineEdit->clear();
   insertHistory(input);
@@ -94,7 +94,7 @@ void MainWindow:: on_lineEdit_returnPressed()
     return;
   QString res = parser->getResFromCN(input);
   //ui->textEdit->append("input: "+input);
-  ui->textEdit->append("/*"+input + "*/");
+  ui->textEdit->append("//"+input);
   //ui->textEdit->append("output: "+res);
   ui->textEdit->append(res);
   ui->lineEdit->clear();
